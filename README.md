@@ -52,4 +52,4 @@ En fullstack webapplikasjon utviklet som eksamensprosjekt i webutvikling.
 - State management med Context API
 - Samarbeid med GitHub og håndtering av merge conflicts
 
-**Se prosjektet her=>** (
+**Se prosjektet her=>** (https://github.com/martinehagberg/webutvikling-exam.git)
