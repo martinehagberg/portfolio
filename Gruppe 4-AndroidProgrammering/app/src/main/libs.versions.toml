@@ -1,0 +1,17 @@
+toml
+# In gradle/libs.versions.toml
+
+[versions]
+# ... other versions like agp, kotlin, etc.
+retrofit = "2.9.0" # Or a newer version like 2.11.0
+gson = "2.10.1" # Version for Gson itself
+
+[libraries]
+# ... other libraries
+retrofit-core = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
+retrofit-converter-gson = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "retrofit" }
+# You might also need gson itself for other things
+gson = { group = "com.google.code.gson", name = "gson", version.ref = "gson" }
+
+[plugins]
+# ...
