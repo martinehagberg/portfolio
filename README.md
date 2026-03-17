@@ -3,8 +3,8 @@ Jeg går andre året på bachloren **Informasjonsteknologi - frontend- og mobilu
 
 # Mine prosjekter
 
-###Android programmering Eksamen: Anime App
+### Android programmering Eksamen: Anime App
 En app utviklet for android med forskjellige funkjoner. 
 **Teknologier:** Kotlin Native, Jetpack Compose, Android Studio 
 **Hva jeg har vært:**
-=> (link)
+=> ()
