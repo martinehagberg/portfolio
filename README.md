@@ -53,3 +53,23 @@ En fullstack webapplikasjon utviklet som eksamensprosjekt i webutvikling.
 - Samarbeid med GitHub og håndtering av merge conflicts
 
 **Se prosjektet her=>** (https://github.com/martinehagberg/webutvikling-exam.git)
+----
+
+### 🌟Objektorientert programmering eksamen: Scrapyard
+Et Java-basert program utviklet som eksamensprosjekt i objektorientert programmering.  
+Programmet leser data fra fil og lagrer informasjon om kjøretøy i en MySQL-database.
+
+**Teknologier:**
+- Java
+- JDBC
+- MySQL
+
+**Hva jeg har lært:**
+- Hvordan bruke objektorienterte prinsipper i praksis
+- Strukturering av kode med arv og abstrakte klasser
+- Bruk av JDBC for å koble Java til database
+- Hvordan lese og håndtere data fra filer
+- Hvordan organisere større programmer på en ryddig måte
+
+**Se prosjektet her=>** https://github.com/martinehagberg/OOP-exam.git
+----
