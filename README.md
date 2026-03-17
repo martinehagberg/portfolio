@@ -26,7 +26,7 @@ En app utviklet for android med forskjellige funkjoner.
 
 
 **Se prosjektet her =>** (https://github.com/martinehagberg/android-anime-app.git)
----------
+----
 ### 🌟Webutvikling eksamen: SportsWorld
 En fullstack webapplikasjon utviklet som eksamensprosjekt i webutvikling. 
 
