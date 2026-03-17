@@ -7,4 +7,4 @@ Jeg går andre året på bachloren **Informasjonsteknologi - frontend- og mobilu
 En app utviklet for android med forskjellige funkjoner. 
 **Teknologier:** Kotlin Native, Jetpack Compose, Android Studio 
 **Hva jeg har vært:**
-=> ()
+=> (https://github.com/martinehagberg/android-anime-app.git)
